@@ -1,0 +1,22 @@
+/* 	Text */
+/* 	Fonts: FlamaBasic, FlamaCondensedSemiBold, FlamaCondensedBold */
+/* 	Colors: 
+	Light Green #63C2A7	
+*/
+
+header#header h1 {
+	font-family: "FlamaCondensedBold";
+	text-transform: uppercase;
+	color: #3CDEB3;
+	font-size: 64px;
+	}
+
+p {
+	font-family: "FlamaBasic" !important;
+	
+}
+
+header#header br {display: none;}
+header#header p.lead {
+
+}
